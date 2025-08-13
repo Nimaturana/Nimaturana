@@ -106,15 +106,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimaturana&theme=tokyonight" alt="GitHub Streak" />
   </div>
 
-  <!-- Métricas adicionales -->
-  <h2>Métricas de Perfil</h2>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nimaturana&color=blue&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Nimaturana?style=for-the-badge&color=blue" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/Nimaturana?style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  </div>
-
-  <!-- Filosofía -->
+  <!-- Filosofia -->
   <h2>Filosofía</h2>
   <p align="center">
     <em>"No hay firewall que proteja del descuido humano."</em>
